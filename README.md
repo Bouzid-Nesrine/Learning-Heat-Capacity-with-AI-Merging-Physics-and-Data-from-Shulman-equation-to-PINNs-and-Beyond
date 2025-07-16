@@ -22,11 +22,11 @@ Each approach is applied on real material datasets to investigate their effectiv
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```bash
 
-📦 heat-capacity-ai
+ heat-capacity-ai
 
 ├── README.md
 
@@ -131,19 +131,19 @@ please **open a Pull Request (PR)**. Let's cooperate and grow the **largest open
 
 * * * * *
 
-📄 License
+ License
 ----------
 
 MIT License. Free to use, modify, and distribute --- with attribution.
 
 * * * * *
 
-🤝 Acknowledgments
+ Acknowledgments
 ------------------
 
 Special thanks to **CRAAG Institute** and **Dr. Naceur Bouziani** for the valuable guidance, and to **ENSIA** --- the National School of Artificial Intelligence --- for the scientific formation and academic support.
 
 * * * * *
 
-✨ Let's model the thermal universe --- one dataset at a time!
+ Let's model the thermal universe --- one dataset at a time!
 -----------------------------------------------------------
