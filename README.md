@@ -1,0 +1,1 @@
+# Learning-Heat-Capacity-with-AI-Merging-Physics-and-Data-from-Shulman-equation-to-PINNs-and-Beyond
