@@ -80,7 +80,7 @@ Each approach is applied on real material datasets to investigate their effectiv
 
 * * * * *
 
-⚙ How to Use
+ How to Use
 -------------
 
 ###  Installation
